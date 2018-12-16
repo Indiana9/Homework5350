@@ -1,0 +1,82 @@
+---
+output: 
+  pdf_document:
+    citation_package: natbib
+    keep_tex: true
+    fig_caption: true
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+title: "Slightly of Course"
+author:
+- name: John von Neumann
+  affiliation: School of Hard Knocks 
+abstract: "In this article I will talk about how business are functioning at disequilibruim and always will be but an economist job is to help that disquilibrium move to the equilibrium stage"
+keywords: "Economics"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 11pt
+spacing: double
+bibliography: ./master.bib
+biblio-style: apsr
+---
+
+
+>  
+
+# 1.A. 
+Buchanan main point is that economists are not fulfilling their proper roles. The current roles of making allocative decisions does not help the economy as a whole. What economists need to focus on is making organizations and places where people can come and trade willing with one another. Economists need to create spaces for people to trade.
+
+# 1.B. 
+Catallactics is how one determines the amount exchanged and at what price based on how an agent makes his or her choices. It explains the current price of an item and not what is should be.
+
+#1.C. 
+Most exconomists try and allocate resources to their best uses based on an economic model. They try and decide how to best use the resource instead of the market deciding where it should be used. The try and maximize the economic benefit when it reality that might not be the case. 
+
+#1.D. 
+Buchanan thinks that economists should be less concerned with what they think is best for the "welfare" for the people. The best thing for the people is to let them decide for themselves and not have an economist plan it out for them. Economist should make ways for others to gain their best welfare for any resource. 
+
+#2 
+I am agreeing and disagreeing with Buchanan. There is still use for an economic model in today's world but it needs to be updated. I am proposing that economics needs to be integrated into business more but only if economists are willing to tweak their ways. They need to work with data scientists to help create and equilibrium model but at the same time create a model with disequilibirum. This is where markets are currently at. Economists need to figure out where the disequlibrium model fits on the equilibrium model. Then economists can take the role of finding ways to help businesses realize that they are not operating at their optimium level. If a model truly does work and than economist can become an enterpernuer to find new ways to move the disequilibrium market to a more efficient one. If an economist can figure this out (and find areas where it needs the more improvement: like management, store layout, supply chain management, explaining the true value of a product etc.) then the company can induce greater profits and be more efficient. They however need to do this based upon information about the agent and what makes up the price. Afterwards an economist can facilitate better ideas to a business so that it can create and place that helps create a more efficient place to trade and barter.
+
+# Introduction
+
+A brief explination of economics and their current roles. Brief mention of Buchanan and his idea of economists. Economists should continue to develop equilibrium charts of price and quantity of what they should be and what they currently are. Economists should figure out ways of moving the current price to what they should be by creating new ideas that put more value on the product.
+
+
+## Subsection 1
+
+Buchanan and what he means of creating a space to enhance trade. @buchanan1964should 
+
+## Subsection 2
+
+Disequilibrium and Austrian theory @thomsen2002prices Defines disequilibrium and Austrian Theory
+
+## Subsection 3
+
+Creating charts and placing value on what the agent thinks. @kahneman1991anomalies this articles explains the complications of placing value on choices with the endowment effect 
+
+## Subsection 4
+
+Job of economists and how they can be useful in a business.
+
+## Subsection 5
+
+Economists and roles in government. @dixit1997economists This article goes along with Buchanan idea that economists should stay out of poilitics. It explains that really there is only one choice given and no other options available. Governments force price equilibrium instead of allowing economists to find ways to enhance trade. 
+
+## Summary and Conclusion
+
+Explain that economists and business can work together and not think of it as some abstract idea. Explain making the world more efficient while maximizing profits.
+
+
+
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+

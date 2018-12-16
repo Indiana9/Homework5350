@@ -1,0 +1,70 @@
+---
+title: "Economic Theories for Economists to Use"
+author:
+- affiliation: Jon M. Huntsman School of Business
+  name: Austin Gorge
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    citation_package: natbib
+    fig_caption: yes
+    keep_tex: yes
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+biblio-style: apsr
+fontfamily: mathpazo
+fontsize: 11pt
+geometry: margin=1in
+keywords: Game Theory, Agent-Based Modeling, Nash Equilibrium
+bibliography: ./master.bib
+spacing: double
+abstract: In this article, I will discuss the true role of economists. By using the paper from Buchanan, economists are not currently doing what they need to. They need to use Game Theory and Agent-Based Modeling to help the economy reach maximum utility.  
+---
+
+
+>  
+
+# Introduction
+
+Economist are used in a variety of roles and functions. Today, there are used in businesses, the government and even schools. Unfortunately, what exactly economist do have been debated, changed and continues to change today. Buchanan argues that economist is not fulfilling their proper roles. The work that they currently do is useless. He offers another idea that tells economist to organize places where trade can take place. This is an excellent idea and these places can be better developed through models based upon game theory and agent-based modeling. The role of the economist should be to analyze customers choices by creating models that realize where efficiencies could be improved and create an environment for businesses and individuals to achieve maximum utility.  
+
+## Subsection 1
+
+Buchanan argues that economists are not fulfilling their proper roles. Economists are currently focusing on how to distribute resources to individuals who would benefit the most from that resource @buchanan1964should.  This is done through many outdated economic models that are have been used for many years. Businesses today are better at adapting to the ever-changing societal norms and customs. Buchanan makes a valid point that economists should change their focus from distributing resources to who they think will receive the most benefit from it, to creating a space where individuals can trade with one another and increase the chance of doing so @buchanan1964should.  
+
+## Subsection 2 
+
+Places of exchange needs to be defined. A business is different than a place of exchange. A business is a place where individual and other businesses can go to shop for products. A place of exchange is a business but is also a space where individuals and businesses can meet to exchange products. For example, a place of exchange includes farmers markets, expos and other venues. The point needs to be made that economists not only help a physical business location but also help individuals who want to trade but who cannot afford a large space or don’t need one for very long. Economists need to create more spaces like farmers markets and use agent-based and game theory models to maximize the utility of those spaces. That is why throughout the rest of the paper, the term place of exchange will be used. 
+
+# Subsection 3
+
+The first model that economist can implement is game theory. The most basic definition of game theory is “what happens when people interact” @camerer2011behavioral. However, game theory is a lot more complex then this. First game theory has constraints on how the game is setup. A game is set up using participants where they have limitations as to what information they possess, what choices they can make with those limitations and how they rate how much benefit they get from taking that action @camerer2011behavioral.  Game theory is based upon mathematics. This is called analytical game theory. Analytical game theory described by Camerer is “usually based on introspection and guesses rather than careful observation of how people actually play in games” @camerer2011behavioral. Economists are not looking at how people play but are predicating what action the player will take in the future. Game theory is a wonderful model to use because it can be used in any place of exchange no matter if its cars, wood, food, or even college universities.  In the next section, one more key factor is explained for economists to use in their game theory model. 
+
+# Subsection 4
+
+Economists need to use the concept of Nash Equilibrium in their model. Nash Equilibrium is designed where a situation is under game theory logic and the end results in achieving maximum utility @kuhn1997work. In a sense, there is no more trading that can be done with anyone else in the room based upon the rules and limitations of the game. This is the goal of an economist. A person who walks into a place of exchange should be leaving it with the maximum benefit that individual can achieve through the current resources that they possess. There are limitations to game theory because the rules of engagement and information are set. However, in the world, there is no controlled environment. There are many customers who come into a place of exchange with several other factors that make up how they will interact in a place of exchange. Even though there might be many more factors and it causes the equation to be non-linear, it is a good place to start modeling a customer’s behavior.  This is the first model that economists should be using. 
+
+# Subsection 5
+
+The second model that economists should be focused on is agent-based modeling. Agent-based modeling is very similar to game theory. It is on a simple level the study of “a system of agents and the relationships between them” @bonabeau2002agent. The difference between agent-based modeling and game theory is that agent-based modeling is more adaptive to the changing environment and can help explain better emergent phenomena. Emergent phenomena explain the learning and adaptation of an individual based upon what decisions are made by others @bonabeau2002agent.  One of the four subsections of emergent phenomena is flows. Flows can be used to model the behavior of customers through a place of exchange. 
+
+# Subsection 6
+
+Customer flow management is used heavily in many places of exchange. This model can link the interaction between customers and the layout of the place of exchange. Based upon historical information where the customer has been, a most used path can be generated for the current layout. This then can be used in an optimization algorithm in order to “minimize or maximize, the length of the average path” @bonabeau2002agent. Modeling this path can help the places of exchange to create an environment of Nash equilibrium. The same model can be used not just for where the products are located but also changing factors like number of sales people on the floor, number of cash registers being operated, how many products are on the floor at one time, etc.  As economists use this model, they will help places of exchange achieve Nash Equilibrium.
+
+
+# Summary and Conclusion
+
+It is ironic that economists are trying to create an equilibrium in the market when in fact they might be doing more harm then good. Economists can change their ways and start using game theory and agent-based modeling to create an economy that better functions and more utility is met among people and businesses. The economy of a whole would value greatly with increase stock prices, better trade among nations and richer people if economists can create these places of exchange. It starts with educating rising future economists who want to make the world a place where trade is better facilitated.  
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
